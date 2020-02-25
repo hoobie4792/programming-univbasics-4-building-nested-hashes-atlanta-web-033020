@@ -36,4 +36,12 @@ monopoly =  {
 
 def base_hash
   monopoly = { :railroads => {} }
+  return monopoly
 end
+
+def second_tier
+  monopoly = {
+    :railroads => 
+  }
+end
+  }
