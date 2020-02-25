@@ -39,7 +39,7 @@ def base_hash
   return monopoly
 end
 
-def second_tier
+def monopoly_with_second_tier
   monopoly = {
     :railroads => {
       :pieces => 4,
@@ -49,3 +49,5 @@ def second_tier
   }
   return monopoly
 end
+
+def 
