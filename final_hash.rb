@@ -48,4 +48,3 @@ def second_tier
     }
   }
 end
-  }
