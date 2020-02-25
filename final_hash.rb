@@ -35,7 +35,7 @@ monopoly =  {
 }
 
 def base_hash
-  monopoly = { :railroads => {} }
+  monopoly = {:railroads => {}}
   return monopoly
 end
 
