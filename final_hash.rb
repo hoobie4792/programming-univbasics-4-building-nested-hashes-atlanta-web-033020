@@ -47,4 +47,5 @@ def second_tier
       :names => {}
     }
   }
+  return monopoly
 end
